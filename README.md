@@ -14,3 +14,4 @@ f)200 (Proximo numero com D)
 
 Agradeço a target pela oportunidade de participar dessa etapa do processo seletivo
 
+![Banner Target](https://github.com/Whoefa/Target-RibeiraoPreto_TesteDeCodigo/blob/main/targetBanner.png)
